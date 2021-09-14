@@ -1,5 +1,5 @@
 
- # {PORTFOLIO-Morriosn Njenga}
+ # {PORTFOLIO-Morrison Njenga}
 #### {A website containing my education background ,projects done.}, {first version}
 
 ## Description
