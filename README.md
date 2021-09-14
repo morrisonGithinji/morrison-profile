@@ -7,7 +7,7 @@ It is a porfolio website with detailed navigation buttons to make it easier for 
 ## Setup/Installation Requirements
 * A web browser.
 
-* Good internet connenction.
+* Good internet connection.
 
 * Done using html and css
 
