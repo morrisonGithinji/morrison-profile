@@ -13,6 +13,7 @@ It is a porfolio website with detailed navigation buttons to make it easier for 
 
 ## Known Bugs
 There are no known bugs ...if setup requirements are met then the website should run smoothly and without any problems.
+
 ## Technologies Used
 HTML was used to build the base of the website and CSS was use to style the website .
 ## Support and contact details
