@@ -10,6 +10,7 @@ It is a porfolio website with detailed navigation buttons to make it easier for 
 * Good internet connenction.
 
 * Done using html and css
+
 ## Known Bugs
 There are no known bugs ...if setup requirements are met then the website should run smoothly and without any problems.
 ## Technologies Used
